@@ -6,7 +6,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/JaredQR"><img src="https://img.shields.io/github/followers/puma3.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/JaredQR"><img src="https://img.shields.io/github/followers/JaredQR.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/jared-quincho"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=JaredQR">
 </p>
